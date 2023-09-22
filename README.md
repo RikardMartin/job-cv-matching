@@ -1,5 +1,5 @@
 # job-cv-matching
-This is a Python notebook with the core functionality of an application that finds the best matching CV's for a given job posting. It uses openai's GPT-models for interpreting and transforming CV documents. It is a useful tools for finding the best candidates for a position among a large number of possible choices. This can help save valuable time for bid managers and similar professions.
+The accompanying notebook contains the core functionality of an application that finds the best matching CV's for a given job posting. It uses openai's GPT-models for interpreting and transforming CV documents. It is a useful tools for finding the best candidates for a position among a large number of possible choices. This can help save valuable time for bid managers and similar professions.
 
 The process outline is this:
 1. Get CV documents from CV database
