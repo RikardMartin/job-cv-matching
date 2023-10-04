@@ -6,3 +6,4 @@ tqdm
 kaggle --install-option='--user'
 openai
 pdfplumber
+sklearn --install-options='-U'
